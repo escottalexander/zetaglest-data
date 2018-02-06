@@ -10,7 +10,7 @@ ZetaGlest is a fork of [MegaGlest](http://megaglest.org/), a network
 multi-player cross-platform 3D real-time strategy (RTS) game, where you
 control the armies of one of eight different factions: Tech, Magic,
 Egypt, Indians, Norsemen, Persian, Elves or Romans. The game is played
-in one of 17 naturally looking settings, which, like the unit models,
+in one of 17 natural looking settings, which, like the unit models,
 are crafted with great attention to detail. A lot of additional game
 data can be downloaded from within the game at no cost.
 
@@ -39,7 +39,7 @@ To suggest a map, please [open a ticket](https://github.com/ZetaGlest/zetaglest-
 
 ### Other artwork (sounds, graphics, 3d models, icons)
 
-We are working on creating and completing documentation. In the
+We are currently working on creating and completing the documentation. In the
 meantime, please contact us with any questions or ideas. Thank you for
 your interest in this project.
 
